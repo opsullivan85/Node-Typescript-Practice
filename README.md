@@ -1,0 +1,1 @@
+https://medium.com/@semuserable/simplest-typescript-with-visual-studio-code-e42843fe437
